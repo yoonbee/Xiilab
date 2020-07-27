@@ -1,0 +1,36 @@
+1. display
+2. overflow
+3. float
+4. position
+5. width
+6. height
+7. padding
+8. margin
+9. border
+10. background
+11. color
+12. white-space
+13. letter-spacing
+14. font-wieght
+15. font-size
+16. line-height
+17. text-decoration
+18. text-align
+19. vertical-align
+20. clear
+21. content
+22. animation
+23. etc
+
+
+1 표시 display 
+2 넘침 overflow 
+3 흐름 float clear 
+4 위치 position top, right, bottom, left, z-index 
+5 크기 width & height 
+6 긴격 margin & padding (그룹)
+7 테두리 border (그룹)
+8 배경 background (그룹)
+9 폰트 font (그룹) color, letter-spacing, text-align, text-decoration, textindent, vertical-align, white-space 등 
+10 동작 animation animation, transform, transition, marquee 등 
+11 기타 - 위에 언급되지 않은 나머지 속성들로 폰트의 관련 속성 이후에 선언하며, 기타 속성 내의 선언 순서는 무관함. 
