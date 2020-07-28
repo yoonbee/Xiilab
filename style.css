@@ -1,0 +1,14 @@
+.number-icon{ 
+    padding: 2px 6px; 
+    background-color: #ff5e00; 
+    color: white; 
+    margin-right: 10px;
+}
+
+.menual{
+    padding: 20px 100px 20px 100px;
+}
+
+.menual-list > li{
+    padding: 5px;
+}
